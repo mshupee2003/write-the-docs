@@ -7,4 +7,4 @@ baseurl: "/write-the-docs"
 
 # Markdown parser and theme settings
 markdown: kramdown
-remote_theme: pages-themes/hacker
+theme: minima
